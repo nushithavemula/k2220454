@@ -1,0 +1,3 @@
+which service to access the google drive?
+A.Google drive is a SAAS(Software As A Service) cloud computing service because,it gives you access to store,compute and access different software functions.Now-a-days all applications are run on the basis of specific softwares.If you already have a gmail account then you have google drive,since your free google accout give you access to all google services like gmail,google drive,photos,youtube,play store and more.
+         Google drive is  a cloud based storage solution that enables you to store your media,files and media in the servers in the cloud.you can easily access these files with your phone,tablet or laptop.The drive is available in both andriod and ios store,in fact it comes pre-installed in most new andriod phones. 
