@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>list</title>
+</head>
+<body>
+<center><h1>Welcome to KBN</center></h1><br>
+<h2>Languages</h2>
+<ol>
+<li>Java</li>
+<li>C Language</li>
+</ol>
+<h2>Operating Systems</h2>
+<ul>
+<li>MS DOS</li>
+<li>Windows</li>
+<li>Dell</li>
+</ul>
+<h2>Packages</h2>
+<dl>
+<dt>MS-OFFICE</dt>
+<dd>These are tally,wings etc</dd>
+</dl>
+</body>
+</html>
