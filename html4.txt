@@ -1,0 +1,11 @@
+<html>
+<head>
+<link rel ="stylesheet"type="text/css" href="d:\style.css>
+</head>
+<body>
+<h2>learning HTML with external css</h2>
+<p class="blue">this is a blue color paragraph</p>
+<p class="red">this is a red color paragraph</p>
+<p class="green">this is a green color paragraph</p>
+</body>
+</html>
